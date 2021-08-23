@@ -2,6 +2,7 @@
 re edited by ameer&Vkmonu
 Licensed under the  GPL-3a.0 License;
 you may not use this file except in compliance with the License.
+
 WhatsAsena - Yusuf Usta
 */
 
@@ -306,6 +307,7 @@ async function whatsAsena () {
     conn.on('connecting', async () => {
         console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('Asena')}
 ${chalk.white.bold('Version:')} ${chalk.red.bold(config.VERSION)}
+
 ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
     });
     conn.on('credentials-updated', async () => {
@@ -969,44 +971,3 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
 }
 
 whatsAsena();
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-
-
-                
-            
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                
-                
-     
-                 
-    
-                    
-                                        
