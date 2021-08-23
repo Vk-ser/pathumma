@@ -1,4 +1,4 @@
- 
+  
 /* Copyright (C) 2020 Yusuf Usta.
 re edited by ameer&Hisham
 Licensed under the  GPL-3a.0 License;
@@ -817,7 +817,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     '\n*𝖕𝖆𝖙𝖍𝖚𝖒𝖒𝖆 an error has occurred!*'+
                                     '\n*This error log may include your number or the number of an opponent. Please be careful with it!*' +
                                     '\n*You can write to our Telegram group for help.*' +
-                                    '\n*Aslo you can join our support group:* https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf' +
+                                    '\n*Aslo you can join our support group:* https://chat.whatsapp.com/LHjCTYRuSRcDNdBE8G4JN9' +
                                     '\n*This message should have gone to your number (saved messages).*\n\n' +
                                     '*Error:* ```' + error + '```\n\n'
                                     , MessageType.text, {detectLinks: false}
@@ -941,7 +941,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                 }
                                 else {
                                     return await conn.sendMessage(conn.user.jid, '*🙇🏻 Sorry, I Couldnt Read This Error! 🙇🏻*' +
-                                        '\n_You can write to our support group for more help /n https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf'
+                                        '\n_You can write to our support group for more help /n https://chat.whatsapp.com/LHjCTYRuSRcDNdBE8G4JN9'
                                         , MessageType.text
                                     );
                                 }    
@@ -984,8 +984,11 @@ Blog
 About
 
 
-         
-                                
-                                
-                                    
-            
+
+                
+                
+     
+                 
+    
+                    
+                                        
