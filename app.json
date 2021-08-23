@@ -1,8 +1,9 @@
-"name": "pathumma BY VINAYAK",
-    "description": "pathumma bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
-    "logo": "https://raw.githubusercontent.com/Vk-ser/pathumma/master/pathumma.png",
+{
+    "name": "PIKACHU BY AMEERSUHAIL",
+    "description": "pikachu bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
+    "logo": "https://raw.githubusercontent.com/ameer-kallumthodi/pikachu/master/Pikachu-407x400.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/Vk-kallumthodi/pathumma",
+    "repository": "https://github.com/ameer-kallumthodi/pikachu",
     "website":   "under maintenance",
     "success_url": "under maintenance",
     "stack": "container",
@@ -93,7 +94,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏pathumma⤎╾━━━•"
+            "value": "•━━━━╼⤏PINKY BOT⤎╾━━━•"
         },
         "HEROKU_API_KEY": {
             "description": "Herokuda API Keyiniz. Heroku API Key.",
@@ -132,7 +133,7 @@
         "WORK_TYPE": {
             "description": "WhatsAsena Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
-            "value": "public"
+            "value": "private"
         },
         "HEROKU_APP_NAME": {
             "description": "Herokuda uygulama adı. Heroku APP Name.",
@@ -150,7 +151,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```\n\n```pathumma🧚‍♂️```\n\n```coded by VINAYAK```\n\n```wa.me/919656840677```\n\n```https://www.instagram.com/_it_z_me_vk```"
+            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```\n\n```pikachu🧚‍♂️```\n\n```coded by ameer suhail```\n\n```wa.me/919946432377```\n\n```https://www.instagram.com/ameer_.su_hail```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
