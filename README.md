@@ -49,7 +49,9 @@ Project created by <a href="https://github.com/Vk-ser">Vk-ser</a> to make it pub
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LHjCTYRuSRcDNdBE8G4JN9)
+  <div align="center">
+    
+  [![join](https://1.bp.blogspot.com/-RNh3YboGHLw/XUWTfcXFt4I/AAAAAAAAB6k/tzCGsX4_Ke4EAtnlVo1acC35zk1fnfzJACLcBGAs/w640-h150/whatsapp-group-icon%2540Gujarat%2BEducare.png)](https://chat.whatsapp.com/LHjCTYRuSRcDNdBE8G4JN9)
 
 ## 
   <h3 align="center">📢 Support Group 2:</h3>
@@ -57,7 +59,7 @@ Click WA logo to Join Support Group 👇
 Click pathumma logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/whatsapp-logo-light-green-png-0.png" alt="kyrie.baran" height="150" width="200" /></a>
 </p>
     
 ## Setup
@@ -113,10 +115,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Vk-ser](https://github.com/Vk-ser.png?size=100)](https://github.com/Vk-ser) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
-----|----|----
-[Vk-ser](https://github.com/Vk-ser)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+  [![Vk-ser](https://github.com/Vk-ser.png?size=100)](https://github.com/Vk-ser) |  [![Sourav KL11](https://github.com/souravkl11.png?size=100)](https://github.com/Hisham-Muhammed) 
+----|----
+[Vk-ser](https://github.com/Vk-ser)  | [Sourav KL11](https://github.com/souravkl11)
+Base, Bug Fixes, Modules |  Bug Fixes, Modules | 
   </div>
     
 
