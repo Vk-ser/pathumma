@@ -57,7 +57,7 @@ Click WA logo to Join Support Group 👇
 Click pathumma logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/G18G7QjUqi6GqkWvUwre4u" target="blank"><img align="center" src="pathumma.png" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
