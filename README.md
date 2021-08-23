@@ -56,7 +56,7 @@ Click WA logo to Join Support Group 👇
 ## 
   <h3 align="center">📢 Support Group 2:</h3>
 <p align="center">
-Click pathumma logo to Join Support Group 2👇
+Click WhatsApp logo to Join Support Group 2👇
     <br>
 <br>
 
