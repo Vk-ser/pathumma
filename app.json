@@ -1,24 +1,4 @@
-Skip to content
-Vk-ser
-/
-pathumma
-forked from Vinayak-vk-ser/pathumma
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-pathumma/app.json
-@ameer-kallumthodi
-ameer-kallumthodi Add files via upload
- 15 contributors
-@phaticusthiccy@yusufusta@farhan-dqz@ameer-kallumthodi@Vai838@SkueletorTlg@Alien-alfa@H1kikomoR1@MuhammedKpln@Xenon67@afnanplk@oguz162
-217 lines (217 sloc)  8.97 KB
-{
-    "name": "pathumma BY VINAYAK",
+"name": "pathumma BY VINAYAK",
     "description": "pathumma bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
     "logo": "https://raw.githubusercontent.com/Vk-ser/pathumma/master/pathumma.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
@@ -234,15 +214,3 @@ ameer-kallumthodi Add files via upload
       "url": "heroku-community/apt"
       }]
   }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
