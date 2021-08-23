@@ -1,3 +1,22 @@
+Skip to content
+Vk-ser
+/
+pathumma
+forked from Vinayak-vk-ser/pathumma
+Code
+Pull requests
+1
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+pathumma/language/ML.json
+@ameer-kallumthodi
+ameer-kallumthodi Update ML.json
+ 10 contributors
+541 lines (538 sloc)  29.7 KB
 {
     "__ASENAJSON__": true,
     "LANGUAGE": "Manglish",
@@ -217,13 +236,13 @@
         "updater": {
             "UPDATER_DESC": "update indo enn ariyaan.",
             "UPDATE": "*ningalude bot up-to-date aan!*",
-            "NEW_UPDATE": "*Pikachu Puthiya Update Vannittund* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
+            "NEW_UPDATE": "*pathumma Puthiya Update Vannittund* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "botine update cheyaan.",
             "UPDATING": "```Updating..🐥```",
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ vijayagaramayi Update cheythu!*",
-            "AFTER_UPDATE": "*😎 Pikachu Restarting..*"
+            "AFTER_UPDATE": "*😎 pathumma Restarting..*"
         },
         "weather": {
             "WEATHER_DESC": "ningal therrunna sthalathe kaalavastha kaanikkum.",
@@ -539,3 +558,16 @@
         }
     }
 }
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
