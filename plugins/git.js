@@ -11,19 +11,19 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "PATHUMMA.png";
+  r_text[0] = "https://d.top4top.io/p_2058369i80.jpg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Ameer Suhail*
-*owner number wa.me/919656840677*
-*bot setting video : https://youtu.be/_D4ZYuUSXjs
-*githublink       https://github.com/Vk-ser/pathumma*
-*audio commads    https://github.com/Vk-ser/pathumma/tree/master/uploads*
-*sticker commads  https://github.com/Vk-ser/pathumma/tree/master/uploads*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*𝘾𝙍𝙀𝘼𝙏𝙊𝙍 RAMEEZ SER*
+*owner number wa.me/919995399396*
+
+*𝙂𝙄𝙏𝙃𝙐𝘽 𝙇𝙄𝙉𝙆      https://github.com/LIYARAMEEz/LIYARAMEE*
+*𝘼𝙐𝘿𝙄𝙊 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎    https://github.com/LIYARAMEEz/LIYARAMEE/tree/master/uploads*
+*𝙎𝙏𝙄𝘾𝙆𝙀𝙍 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎  https://github.com/LIYARAMEEz/LIYARAMEE/tree/master/sticker*
 `}) 
 
 }));
