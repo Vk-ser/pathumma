@@ -19,7 +19,7 @@ PATHUMMA BOT
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LHjCTYRuSRcDNdBE8G4JN9)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/F8OdQdPD1m91zqlx2sTIOG)
   <div align="center">
        
 ## THANK YOU EVERYONE🤗
