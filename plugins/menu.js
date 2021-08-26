@@ -10,21 +10,21 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "pathumma.png";
+    r_text[0] = "https://github.com/Vk-ser/pathumma/raw/master/pathumma.png";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️Vinayak✨️━━━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━VK §ÈR━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Vinayak 𝐛𝐨𝐭.
-            *pathumma*
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 ꪜᛕ ᦓꫀ᥅ 𝐛𝐨𝐭.
+            *𝖕𝖆𝖙𝖍𝖚𝖒𝖒𝖆*
 
-■□■□■□■□■□■□■□■□■□■□
-♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
+♡︎♡︎♡︎♡︎♡︎♡︎♡︎♡︎♡︎♡︎♡︎♡︎♡︎♡︎♡︎♡︎
+㋛︎ *_𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨_* シ︎
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -song <text>
 🍙𝙐𝙨𝙚➜ Downloads song for you.
@@ -78,7 +78,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -wallpaper
 🍙𝙐𝙨𝙚➜ It sends you random wallpaper.
 
-■□■□■□■□■□pathumma■□■□■□■□■□
+☯︎☯︎☯︎☯︎☯︎☯︎☯︎☯︎☯︎☯︎℘ąɬɧųɱɱą☯︎☯︎☯︎☯︎☯︎☯︎☯︎☯︎☯︎☯︎
 ♟ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♟
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -joke 
@@ -120,8 +120,9 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -anime <text>
 🍙𝙐𝙨𝙚➜  Gives you info about anime.
-⚠️anime pathumma
-■□■□■□■□■pathumma□■□■□■□■□■□
+⚠️anime 𝖕𝖆𝖙𝖍𝖚𝖒𝖒𝖆
+𑁍𑁍𑁍𑁍𑁍𑁍𑁍𑁍𑁍𑁍𝖕𝖆𝖙𝖍𝖚𝖒𝖒𝖆𑁍𑁍𑁍𑁍𑁍𑁍𑁍𑁍𑁍𑁍
+
 ♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -sticker 
@@ -132,10 +133,10 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
 🍙𝙐𝙨𝙚➜ Converts text into glowing sticker.
-⚠️ex  attp pathumma
-■□■□■□■□■□■□■□■□■□■□
-═════💢pathumma💢═════
-▣▣▣▣▣▣▣▣▣vinayak▣▣▣▣▣▣▣▣▣▣▣
+⚠️ex  attp 𝖕𝖆𝖙𝖍𝖚𝖒𝖒𝖆 power aane
+۞۞۞۞۞۞۞۞۞۞۞۞۞۞۞۞۞۞۞۞
+═════💗℘ąɬɧųɱɱą💗═════
+       𖣘VK §ÈR𖣘
 
 `}) 
 
