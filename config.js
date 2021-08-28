@@ -39,7 +39,7 @@ module.exports = {
     NOLOG: process.env.NO_LOG === undefined ? 'false' : process.env.NO_LOG,
     FULLEVA: process.env.FULL_EVA === undefined ? 'false' : process.env.FULL_EVA,
     GIF_WEL: process.env.GIF_WEL === undefined ? 'https://github.com/Vk-ser/pathumma/raw/master/pathummagif.mp4' : process.env.GIF_WEL,
-    GIF_BYE: process.env.GIF_BYE === undefined ? 'https://github.com/Vk-ser/pathumma/raw/master/pathumma3.mp4' : process.env.GIF_BYE,
+    GIF_BYE: process.env.GIF_BYE === undefined ? 'https://i.imgur.com/NTar8dQ.mp4' : process.env.GIF_BYE,
     BLOCKMSG: process.env.BLOCK_MESSAGE === undefined ? 'default' : process.env.BLOCK_MESSAGE,
     UNBLOCKMSG: process.env.UNBLOCK_MESSAGE === undefined ? 'default' : process.env.UNBLOCK_MESSAGE,
     UNMUTEMSG: process.env.UNMUTE_MESSAGE === undefined ? 'default' : process.env.UNMUTE_MESSAGE,
