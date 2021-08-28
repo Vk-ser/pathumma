@@ -1,5 +1,5 @@
 /* Copyright (C) 2020 Yusuf Usta.
-
+Reedited by hisham & Ameer
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
@@ -26,22 +26,20 @@ module.exports = {
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
     LANG: process.env.LANGUAGE === undefined ? 'TR' : process.env.LANGUAGE.toUpperCase(),
+    OWNER: process.env.OWNER_NAME === undefined ? 'default' : process.env.OWNER_NAME,
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
     KICKMEMSG: process.env.KICKME_MESSAGE === undefined ? 'default' : process.env.KICKME_MESSAGE,
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
-    PLK: process.env.OWNER_NAME === undefined ? 'default' : process.env.OWNER_NAME,
-    SONGD: process.env.SONGD === undefined ? 'ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ...' : process.env.SONGD,
-    SONGU: process.env.SONGU === undefined ? 'ᴜᴘʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ...' : process.env.SONGU,
     BGMFILTER: process.env.BGM_FILTER === undefined ? false : convertToBool(process.env.BGM_FILTER),
     DISBGM: process.env.DISABLE_JID_BGM_FILTER === undefined ? false : process.env.DISABLE_JID_BGM_FILTER,
     AUTOSTICKER: process.env.AUTO_STICKER === undefined ? true : convertToBool(process.env.AUTO_STICKER),
     DISSTICKER: process.env.DISABLE_STICKER === undefined ? false : process.env.DISABLE_STICKER,
     NOLOG: process.env.NO_LOG === undefined ? 'false' : process.env.NO_LOG,
     FULLEVA: process.env.FULL_EVA === undefined ? 'false' : process.env.FULL_EVA,
-    GIF_WEL: process.env.GIF_WEL === undefined ? 'https://i.imgur.com/wLruSEP.mp4' : process.env.GIF_WEL,
-    GIF_BYE: process.env.GIF_BYE === undefined ? 'https://i.imgur.com/wLruSEP.mp4' : process.env.GIF_BYE,
+    GIF_WEL: process.env.GIF_WEL === undefined ? 'https://github.com/Vk-ser/pathumma/raw/master/pathummagif.mp4' : process.env.GIF_WEL,
+    GIF_BYE: process.env.GIF_BYE === undefined ? 'https://github.com/Vk-ser/pathumma/raw/master/pathumma123.mp4' : process.env.GIF_BYE,
     BLOCKMSG: process.env.BLOCK_MESSAGE === undefined ? 'default' : process.env.BLOCK_MESSAGE,
     UNBLOCKMSG: process.env.UNBLOCK_MESSAGE === undefined ? 'default' : process.env.UNBLOCK_MESSAGE,
     UNMUTEMSG: process.env.UNMUTE_MESSAGE === undefined ? 'default' : process.env.UNMUTE_MESSAGE,
@@ -50,7 +48,6 @@ module.exports = {
     DEMOTEMSG: process.env.DEMOTE_MESSAGE === undefined ? 'default' : process.env.DEMOTE_MESSAGE,
     BANMSG: process.env.BAN_MESSAGE === undefined ? 'default' : process.env.BAN_MESSAGE,
     AFKMSG: process.env.AFK_MESSAGE === undefined ? 'default' : process.env.AFK_MESSAGE,
-    TAGPLK: process.env.TAG_HEADER === undefined ? '*Erangi vaa makkale*' : process.env.TAG_HEADER,
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
     BRANCH: 'master',
